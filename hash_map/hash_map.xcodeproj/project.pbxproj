@@ -61,8 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				E745845D1FAF3CE5003D1BC9 /* main.c */,
-				E74584641FAF3D00003D1BC9 /* hash_map.c */,
 				E74584651FAF3D00003D1BC9 /* hash_map.h */,
+				E74584641FAF3D00003D1BC9 /* hash_map.c */,
 			);
 			path = hash_map;
 			sourceTree = "<group>";
